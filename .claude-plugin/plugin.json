@@ -1,0 +1,20 @@
+{
+  "name": "web-studio",
+  "description": "A five-step, reviewed process for designing and building websites with Claude Code: design direction, layout, type, motion and polish.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Harvey Jenkins"
+  },
+  "homepage": "https://github.com/harveyjenkins03-coder/web-studio-plugin",
+  "repository": "https://github.com/harveyjenkins03-coder/web-studio-plugin",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "ui",
+    "web",
+    "motion",
+    "gsap",
+    "threejs"
+  ]
+}

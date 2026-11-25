@@ -1,0 +1,12 @@
+{
+  "name": "web-studio-plugin",
+  "description": "A five-step, reviewed process for designing and building websites with Claude Code.",
+  "owner": { "name": "Harvey Jenkins" },
+  "plugins": [
+    {
+      "name": "web-studio",
+      "source": "./",
+      "description": "A five-step, reviewed process for designing and building websites with Claude Code: design direction, layout, type, motion and polish."
+    }
+  ]
+}
